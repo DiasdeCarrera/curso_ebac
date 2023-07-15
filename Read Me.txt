@@ -1,0 +1,4 @@
+Esse projeto incluí as linguagens HTML e CSS para elaboração de um modelo simples
+de site de noticias e faz parte de um exercicío do curso de Desenvolvedor Full Stack Phyton.
+Os principais focos são aprender a usar ferramentas de HTML e CSS como textos, container, box sizing
+tags, seletores, display, positions, cores, box model, entre outras.
