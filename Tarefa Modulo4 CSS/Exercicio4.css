@@ -49,6 +49,7 @@ header li a
 .articles article img
 {
     height: 180px;
+    border-radius: 8px;
 }
 
 .articles article
@@ -58,7 +59,7 @@ header li a
 
 section
 {
-    padding: 16px;
+    padding: 0;
 }
 
 section h2,
@@ -70,8 +71,7 @@ section h2,
 .articles article h3
 {
     margin-top: 8px;
-    margin-bottom: 8px;
-    
+    margin-bottom: 8px;    
 }
 
 .articles article a
@@ -108,6 +108,7 @@ section h2
 #Sports
 {
     background-color: rgb(183, 73, 247,0.2);
+    
 }
 
 #Sports .articles article a{
